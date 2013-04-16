@@ -1,14 +1,21 @@
 arm4slide
 =========
+WordPress plugin 
 
-=== Plugin Name ===
-Contributors: arm4design
+Contributors: @arm4design
+
 Donate link: http://arm4design.com/donate/donate.html
+
 Tags: slider, captions, animation, mootools
+
 Requires at least: 3.5
+
 Tested up to: 3.5.1
+
 Stable tag: 1.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A mooTools based slider with a lot of options in order to customize its styles and beahaviors.
