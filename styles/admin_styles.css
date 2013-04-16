@@ -1,0 +1,104 @@
+/**
+ * @package arm4slide
+ * File: admin_styles.css
+ * Description: The css styles for the admin side.
+**/
+#icon-arm4-config {
+	background:url('../images/admin/toolicon32.png') no-repeat center center;
+}
+
+#arm4slide_render_code {
+	float:left;
+	padding:20px;
+	border:2px dotted #888;
+	border-radius:15px;
+	margin-top:20px;
+	max-width:400px;
+}
+#arm4slide_render_code textarea {
+	padding:10px 10px 0px 10px;
+}
+
+#arm4slide_submit {
+	float:left;
+	clear:left;
+}
+
+.left {
+	float:left;
+}
+
+#wrapper-texture-button,#title-texture-button,#content-texture-button,#control-texture-button {
+	width:123px;
+	float:left;
+}
+.texture {
+	float:left;
+	width:48px;
+	height:22px;
+	border:1px solid #BBBBBB;
+	border-radius:0px 3px 3px 0px;
+	border-left:none;
+}
+.auto_check {
+	margin-left:10px!important;
+	margin-top:0px!important;
+}
+#movetype-out,#movetype-in,#movetype,#titletype,#contenttype,
+#control-type {
+	float:left;
+}
+.anim_ex {
+	background: url('../images/admin/ball2.png') no-repeat center;
+	width:20px;
+	height:20px;
+	float:left;
+	margin-left:10px;
+	margin-top:3px;
+	position:relative;
+	left:0;
+}
+.control_image {
+	width:40px;
+	height:20px;
+	margin-left:10px;
+	margin-top:3px;
+	float:left;
+}
+.measure {
+	margin:3px 0px 0px 3px;
+}
+.radius_ex {
+	height:20px;
+	width:50px;
+	border:1px solid #888;
+	margin:3px 0px 0px 10px;
+}
+.section_ex {
+	position:absolute;
+	height:125px;
+	width:200px;
+	left:400px;
+	background:#FFF;
+	border:1px solid #888;
+	box-shadow:0px 0px 0px #000;
+	border-radius:0px;
+}
+#slides-which {
+	float:left;
+}
+.which_input, .which_msg {
+	margin-left:10px;
+	display:none;
+	float:left;
+}
+.which_msg {
+	margin-right:10px;
+	margin-top:3px;
+}
+input.which_input {
+	margin-top:4px;
+}
+span.which_input {
+	margin:3px 10px 0px 5px;
+}
